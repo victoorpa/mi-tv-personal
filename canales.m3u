@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1, TV Peru
+
+#EXTINF:-1 group-title="Nacionales", TV Peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+
+#EXTINF:-1 group-title="Deportes", Partido en Vivo
+https://deportes.ksdjugfsddeports.com:9092/MzguMjUwLjE1NC4yMjY=/60_.m3u8?token=P9OIe_uP2hCUAIBzuwe_eA&expires=1766158979|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://deportes.ksdjugfsddeports.com/
