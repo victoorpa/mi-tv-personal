@@ -3,5 +3,8 @@
 #EXTINF:-1 group-title="Nacionales", TV Peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 
-#EXTINF:-1 group-title="Deportes", Partido en Vivo
+#EXTINF:-1 group-title="Deportes", ESPN 2
 https://tyg2mnl9.fubohd.com/espn/mono.m3u8?token=e8bf5497f7304dcb2119919d20e36b0f1fdb09ee-a2-1766175839-1766157839
+
+#EXTINF:-1 group-title="Deportes", ESPN 5
+https://x4bnd7lq.fubohd.com/espn5/mono.m3u8?token=7e3d009d6df10b5f6e95a0f3cef44b5d8211db55-59-1766176890-1766158890|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://futbollibreplay.pe/embed/play.html?r=aHR0cHM6Ly90aW9nb2xoZC5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41
